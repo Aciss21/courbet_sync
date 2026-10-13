@@ -10,7 +10,7 @@
         path="device/xiaomi/courbet"
         name="device_xiaomi_courbet"
         remote="Aciss21"
-        revision="23.2" />
+        revision="16" />
 
     <project
         path="device/xiaomi/sm6150-common"
